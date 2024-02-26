@@ -1,0 +1,10 @@
+# ninja log v5
+1	339	1708949171995344261	CMakeFiles/Hexagone_Jeu_de_Role.dir/main.cpp.o	ff77b05e978467b
+339	393	1708949172056344985	Hexagone_Jeu_de_Role	8c8f4b3e37486085
+0	6	1708949406224078512	CMakeFiles/rpg.dir/main.cpp.o	6a438607cae2ed3c
+0	16	1708949531343527580	build.ninja	ee7b07f70f7c79c6
+7	61	1708949406279079149	rpg	86298deae6ae1a11
+0	412	1708945463114392134	CMakeFiles/Hexagone_Jeu_de_Role.dir/Weapon.cpp.o	43fd7d14a880f849
+0	14	1708949149726079833	CMakeFiles/Hexagone_Jeu_de_Role.dir/Character.cpp.o	bac24445a3072e6a
+0	7	1708949406225078523	CMakeFiles/rpg.dir/Weapon.cpp.o	f06fb7d94351edcd
+0	7	1708949406225078523	CMakeFiles/rpg.dir/Character.cpp.o	52c6be028ec988b8
